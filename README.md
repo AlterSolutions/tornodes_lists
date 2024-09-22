@@ -16,20 +16,20 @@ This repository provides updated lists of IP addresses associated with Tor relay
 
 ## Current Statistics
 
-Last update time : 2024-09-22 05:00:08 UTC
+Last update time : 2024-09-22 05:30:06 UTC
 
-- **Total Number of Nodes**: 8656
-- **Total of Entry Nodes**: 7150
+- **Total Number of Nodes**: 8658
+- **Total of Entry Nodes**: 7156
 
 **TOP 10 PORTS USED FOR TOR ENTRY NODES**
 
 | **Port** | **Number of Nodes** |
 |------|-----------------|
-| **443**   | 2281  |
-| **9001**   | 1791  |
+| **443**   | 2282  |
+| **9001**   | 1794  |
 | **9000**   | 408  |
 | **9100**   | 290  |
-| **9002**   | 170  |
+| **9002**   | 171  |
 | **8443**   | 166  |
 | **9003**   | 98  |
 | **143**   | 87  |
