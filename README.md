@@ -16,7 +16,7 @@ This repository provides updated lists of IP addresses associated with Tor relay
 
 ## Current Statistics
 
-Last update time : 2025-10-21 23:30:20 UTC
+Last update time : 2025-10-22 00:00:49 UTC
 
 - **Total Number of Nodes**: 9828
 - **Total of Entry Nodes**: 8982
